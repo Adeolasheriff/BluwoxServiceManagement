@@ -1,0 +1,6 @@
+@BluwoxServiceManagement_HostAddress = http://localhost:5147
+
+GET {{BluwoxServiceManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
